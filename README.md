@@ -40,4 +40,4 @@ Le processus inverse est appliqué :
 
 Assurez-vous d’avoir Python installé, puis exécutez :
 
-python osi_simulation.py
+Simulation_OSI.py

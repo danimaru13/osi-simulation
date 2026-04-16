@@ -44,5 +44,5 @@ Simulation_OSI.py
 
 ## Démonstration
 Vidéo de démonstration du fonctionnement du programme :
-[Voir la vidéo](./Enregistrement de l'écran 2026-04-16 144019.mp4)
+[Voir la vidéo](./osi-simulation-demo.mp4)
 

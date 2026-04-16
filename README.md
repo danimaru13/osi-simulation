@@ -41,3 +41,8 @@ Le processus inverse est appliqué :
 Assurez-vous d’avoir Python installé, puis exécutez :
 
 Simulation_OSI.py
+
+## Démonstration
+Vidéo de démonstration du fonctionnement du programme :
+[Voir la vidéo](./Enregistrement de l'écran 2026-04-16 144019.mp4)
+
